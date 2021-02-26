@@ -11,6 +11,7 @@ body{
     overflow: hidden;
     flex-direction: column;
     font-family: 'Roboto', sans-serif;
+    padding: 15px;
 }
 
 remlad{
